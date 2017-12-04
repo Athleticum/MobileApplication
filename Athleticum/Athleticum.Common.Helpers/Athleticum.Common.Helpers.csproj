@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Initializers\" />
+    <Folder Include="Constants\" />
+    <Folder Include="Resources\" />
+    <Folder Include="Wrappers\" />
+  </ItemGroup>
+
+</Project>
