@@ -27,6 +27,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Athleticum.ObjectModels", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Athleticum.ServiceAgents", "Athleticum.ServiceAgents\Athleticum.ServiceAgents.csproj", "{FD501A21-0C28-4A87-A5AA-675155F7EB67}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0. Github", "0. Github", "{34DAC7BB-0271-41EC-A27D-47000F550D79}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		LISCENCE.md = LISCENCE.md
+		README.md = README.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Ad-Hoc|Any CPU = Ad-Hoc|Any CPU
