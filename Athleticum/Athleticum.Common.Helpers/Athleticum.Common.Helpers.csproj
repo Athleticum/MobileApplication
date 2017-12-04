@@ -6,9 +6,22 @@
 
   <ItemGroup>
     <Folder Include="Initializers\" />
-    <Folder Include="Constants\" />
-    <Folder Include="Resources\" />
     <Folder Include="Wrappers\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Resources\AppResources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>AppResources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Resources\AppResources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>AppResources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
   </ItemGroup>
 
 </Project>
