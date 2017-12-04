@@ -6,6 +6,7 @@
 
   <ItemGroup>
     <Folder Include="Initializers\" />
+    <Folder Include="Factories\" />
     <Folder Include="Wrappers\" />
   </ItemGroup>
 
