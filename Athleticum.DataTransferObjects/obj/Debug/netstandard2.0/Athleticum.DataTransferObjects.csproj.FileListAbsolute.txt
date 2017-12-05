@@ -1,0 +1,17 @@
+C:\Users\Delanoe\source\repos\Athleticum\MobileApplication\Athleticum\Athleticum.DataTransferObjects\bin\Debug\netstandard2.0\Athleticum.DataTransferObjects.deps.json
+C:\Users\Delanoe\source\repos\Athleticum\MobileApplication\Athleticum\Athleticum.DataTransferObjects\bin\Debug\netstandard2.0\Athleticum.DataTransferObjects.dll
+C:\Users\Delanoe\source\repos\Athleticum\MobileApplication\Athleticum\Athleticum.DataTransferObjects\bin\Debug\netstandard2.0\Athleticum.DataTransferObjects.pdb
+C:\Users\Delanoe\source\repos\Athleticum\MobileApplication\Athleticum\Athleticum.DataTransferObjects\obj\Debug\netstandard2.0\Athleticum.DataTransferObjects.csproj.CoreCompileInputs.cache
+C:\Users\Delanoe\source\repos\Athleticum\MobileApplication\Athleticum\Athleticum.DataTransferObjects\obj\Debug\netstandard2.0\Athleticum.DataTransferObjects.AssemblyInfoInputs.cache
+C:\Users\Delanoe\source\repos\Athleticum\MobileApplication\Athleticum\Athleticum.DataTransferObjects\obj\Debug\netstandard2.0\Athleticum.DataTransferObjects.AssemblyInfo.cs
+C:\Users\Delanoe\source\repos\Athleticum\MobileApplication\Athleticum\Athleticum.DataTransferObjects\obj\Debug\netstandard2.0\Athleticum.DataTransferObjects.dll
+C:\Users\Delanoe\source\repos\Athleticum\MobileApplication\Athleticum\Athleticum.DataTransferObjects\obj\Debug\netstandard2.0\Athleticum.DataTransferObjects.pdb
+C:\Users\Delanoe\source\repos\Athleticum\MobileApplication\Athleticum.DataTransferObjects\bin\Debug\netstandard2.0\Athleticum.DataTransferObjects.deps.json
+C:\Users\Delanoe\source\repos\Athleticum\MobileApplication\Athleticum.DataTransferObjects\bin\Debug\netstandard2.0\Athleticum.DataTransferObjects.dll
+C:\Users\Delanoe\source\repos\Athleticum\MobileApplication\Athleticum.DataTransferObjects\bin\Debug\netstandard2.0\Athleticum.DataTransferObjects.pdb
+C:\Users\Delanoe\source\repos\Athleticum\MobileApplication\Athleticum.DataTransferObjects\obj\Debug\netstandard2.0\Athleticum.DataTransferObjects.csprojResolveAssemblyReference.cache
+C:\Users\Delanoe\source\repos\Athleticum\MobileApplication\Athleticum.DataTransferObjects\obj\Debug\netstandard2.0\Athleticum.DataTransferObjects.csproj.CoreCompileInputs.cache
+C:\Users\Delanoe\source\repos\Athleticum\MobileApplication\Athleticum.DataTransferObjects\obj\Debug\netstandard2.0\Athleticum.DataTransferObjects.AssemblyInfoInputs.cache
+C:\Users\Delanoe\source\repos\Athleticum\MobileApplication\Athleticum.DataTransferObjects\obj\Debug\netstandard2.0\Athleticum.DataTransferObjects.AssemblyInfo.cs
+C:\Users\Delanoe\source\repos\Athleticum\MobileApplication\Athleticum.DataTransferObjects\obj\Debug\netstandard2.0\Athleticum.DataTransferObjects.dll
+C:\Users\Delanoe\source\repos\Athleticum\MobileApplication\Athleticum.DataTransferObjects\obj\Debug\netstandard2.0\Athleticum.DataTransferObjects.pdb

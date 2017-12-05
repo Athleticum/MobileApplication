@@ -1,0 +1,17 @@
+C:\Users\Delanoe\source\repos\Athleticum\MobileApplication\Athleticum\Athleticum.BusinessLogics\bin\Debug\netstandard2.0\Athleticum.BusinessLogics.deps.json
+C:\Users\Delanoe\source\repos\Athleticum\MobileApplication\Athleticum\Athleticum.BusinessLogics\bin\Debug\netstandard2.0\Athleticum.BusinessLogics.dll
+C:\Users\Delanoe\source\repos\Athleticum\MobileApplication\Athleticum\Athleticum.BusinessLogics\bin\Debug\netstandard2.0\Athleticum.BusinessLogics.pdb
+C:\Users\Delanoe\source\repos\Athleticum\MobileApplication\Athleticum\Athleticum.BusinessLogics\obj\Debug\netstandard2.0\Athleticum.BusinessLogics.csproj.CoreCompileInputs.cache
+C:\Users\Delanoe\source\repos\Athleticum\MobileApplication\Athleticum\Athleticum.BusinessLogics\obj\Debug\netstandard2.0\Athleticum.BusinessLogics.AssemblyInfoInputs.cache
+C:\Users\Delanoe\source\repos\Athleticum\MobileApplication\Athleticum\Athleticum.BusinessLogics\obj\Debug\netstandard2.0\Athleticum.BusinessLogics.AssemblyInfo.cs
+C:\Users\Delanoe\source\repos\Athleticum\MobileApplication\Athleticum\Athleticum.BusinessLogics\obj\Debug\netstandard2.0\Athleticum.BusinessLogics.dll
+C:\Users\Delanoe\source\repos\Athleticum\MobileApplication\Athleticum\Athleticum.BusinessLogics\obj\Debug\netstandard2.0\Athleticum.BusinessLogics.pdb
+C:\Users\Delanoe\source\repos\Athleticum\MobileApplication\Athleticum.BusinessLogics\bin\Debug\netstandard2.0\Athleticum.BusinessLogics.deps.json
+C:\Users\Delanoe\source\repos\Athleticum\MobileApplication\Athleticum.BusinessLogics\bin\Debug\netstandard2.0\Athleticum.BusinessLogics.dll
+C:\Users\Delanoe\source\repos\Athleticum\MobileApplication\Athleticum.BusinessLogics\bin\Debug\netstandard2.0\Athleticum.BusinessLogics.pdb
+C:\Users\Delanoe\source\repos\Athleticum\MobileApplication\Athleticum.BusinessLogics\obj\Debug\netstandard2.0\Athleticum.BusinessLogics.csprojResolveAssemblyReference.cache
+C:\Users\Delanoe\source\repos\Athleticum\MobileApplication\Athleticum.BusinessLogics\obj\Debug\netstandard2.0\Athleticum.BusinessLogics.csproj.CoreCompileInputs.cache
+C:\Users\Delanoe\source\repos\Athleticum\MobileApplication\Athleticum.BusinessLogics\obj\Debug\netstandard2.0\Athleticum.BusinessLogics.AssemblyInfoInputs.cache
+C:\Users\Delanoe\source\repos\Athleticum\MobileApplication\Athleticum.BusinessLogics\obj\Debug\netstandard2.0\Athleticum.BusinessLogics.AssemblyInfo.cs
+C:\Users\Delanoe\source\repos\Athleticum\MobileApplication\Athleticum.BusinessLogics\obj\Debug\netstandard2.0\Athleticum.BusinessLogics.dll
+C:\Users\Delanoe\source\repos\Athleticum\MobileApplication\Athleticum.BusinessLogics\obj\Debug\netstandard2.0\Athleticum.BusinessLogics.pdb

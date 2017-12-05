@@ -1,0 +1,17 @@
+C:\Users\Delanoe\source\repos\Athleticum\MobileApplication\Athleticum\Athleticum.ObjectModels\bin\Debug\netstandard2.0\Athleticum.ObjectModels.deps.json
+C:\Users\Delanoe\source\repos\Athleticum\MobileApplication\Athleticum\Athleticum.ObjectModels\bin\Debug\netstandard2.0\Athleticum.ObjectModels.dll
+C:\Users\Delanoe\source\repos\Athleticum\MobileApplication\Athleticum\Athleticum.ObjectModels\bin\Debug\netstandard2.0\Athleticum.ObjectModels.pdb
+C:\Users\Delanoe\source\repos\Athleticum\MobileApplication\Athleticum\Athleticum.ObjectModels\obj\Debug\netstandard2.0\Athleticum.ObjectModels.csproj.CoreCompileInputs.cache
+C:\Users\Delanoe\source\repos\Athleticum\MobileApplication\Athleticum\Athleticum.ObjectModels\obj\Debug\netstandard2.0\Athleticum.ObjectModels.AssemblyInfoInputs.cache
+C:\Users\Delanoe\source\repos\Athleticum\MobileApplication\Athleticum\Athleticum.ObjectModels\obj\Debug\netstandard2.0\Athleticum.ObjectModels.AssemblyInfo.cs
+C:\Users\Delanoe\source\repos\Athleticum\MobileApplication\Athleticum\Athleticum.ObjectModels\obj\Debug\netstandard2.0\Athleticum.ObjectModels.dll
+C:\Users\Delanoe\source\repos\Athleticum\MobileApplication\Athleticum\Athleticum.ObjectModels\obj\Debug\netstandard2.0\Athleticum.ObjectModels.pdb
+C:\Users\Delanoe\source\repos\Athleticum\MobileApplication\Athleticum.ObjectModels\bin\Debug\netstandard2.0\Athleticum.ObjectModels.deps.json
+C:\Users\Delanoe\source\repos\Athleticum\MobileApplication\Athleticum.ObjectModels\bin\Debug\netstandard2.0\Athleticum.ObjectModels.dll
+C:\Users\Delanoe\source\repos\Athleticum\MobileApplication\Athleticum.ObjectModels\bin\Debug\netstandard2.0\Athleticum.ObjectModels.pdb
+C:\Users\Delanoe\source\repos\Athleticum\MobileApplication\Athleticum.ObjectModels\obj\Debug\netstandard2.0\Athleticum.ObjectModels.csprojResolveAssemblyReference.cache
+C:\Users\Delanoe\source\repos\Athleticum\MobileApplication\Athleticum.ObjectModels\obj\Debug\netstandard2.0\Athleticum.ObjectModels.csproj.CoreCompileInputs.cache
+C:\Users\Delanoe\source\repos\Athleticum\MobileApplication\Athleticum.ObjectModels\obj\Debug\netstandard2.0\Athleticum.ObjectModels.AssemblyInfoInputs.cache
+C:\Users\Delanoe\source\repos\Athleticum\MobileApplication\Athleticum.ObjectModels\obj\Debug\netstandard2.0\Athleticum.ObjectModels.AssemblyInfo.cs
+C:\Users\Delanoe\source\repos\Athleticum\MobileApplication\Athleticum.ObjectModels\obj\Debug\netstandard2.0\Athleticum.ObjectModels.dll
+C:\Users\Delanoe\source\repos\Athleticum\MobileApplication\Athleticum.ObjectModels\obj\Debug\netstandard2.0\Athleticum.ObjectModels.pdb

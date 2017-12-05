@@ -1,0 +1,17 @@
+C:\Users\Delanoe\source\repos\Athleticum\MobileApplication\Athleticum\Athleticum.ServiceAgents\bin\Debug\netstandard2.0\Athleticum.ServiceAgents.deps.json
+C:\Users\Delanoe\source\repos\Athleticum\MobileApplication\Athleticum\Athleticum.ServiceAgents\bin\Debug\netstandard2.0\Athleticum.ServiceAgents.dll
+C:\Users\Delanoe\source\repos\Athleticum\MobileApplication\Athleticum\Athleticum.ServiceAgents\bin\Debug\netstandard2.0\Athleticum.ServiceAgents.pdb
+C:\Users\Delanoe\source\repos\Athleticum\MobileApplication\Athleticum\Athleticum.ServiceAgents\obj\Debug\netstandard2.0\Athleticum.ServiceAgents.csproj.CoreCompileInputs.cache
+C:\Users\Delanoe\source\repos\Athleticum\MobileApplication\Athleticum\Athleticum.ServiceAgents\obj\Debug\netstandard2.0\Athleticum.ServiceAgents.AssemblyInfoInputs.cache
+C:\Users\Delanoe\source\repos\Athleticum\MobileApplication\Athleticum\Athleticum.ServiceAgents\obj\Debug\netstandard2.0\Athleticum.ServiceAgents.AssemblyInfo.cs
+C:\Users\Delanoe\source\repos\Athleticum\MobileApplication\Athleticum\Athleticum.ServiceAgents\obj\Debug\netstandard2.0\Athleticum.ServiceAgents.dll
+C:\Users\Delanoe\source\repos\Athleticum\MobileApplication\Athleticum\Athleticum.ServiceAgents\obj\Debug\netstandard2.0\Athleticum.ServiceAgents.pdb
+C:\Users\Delanoe\source\repos\Athleticum\MobileApplication\Athleticum.ServiceAgents\bin\Debug\netstandard2.0\Athleticum.ServiceAgents.deps.json
+C:\Users\Delanoe\source\repos\Athleticum\MobileApplication\Athleticum.ServiceAgents\bin\Debug\netstandard2.0\Athleticum.ServiceAgents.dll
+C:\Users\Delanoe\source\repos\Athleticum\MobileApplication\Athleticum.ServiceAgents\bin\Debug\netstandard2.0\Athleticum.ServiceAgents.pdb
+C:\Users\Delanoe\source\repos\Athleticum\MobileApplication\Athleticum.ServiceAgents\obj\Debug\netstandard2.0\Athleticum.ServiceAgents.csprojResolveAssemblyReference.cache
+C:\Users\Delanoe\source\repos\Athleticum\MobileApplication\Athleticum.ServiceAgents\obj\Debug\netstandard2.0\Athleticum.ServiceAgents.csproj.CoreCompileInputs.cache
+C:\Users\Delanoe\source\repos\Athleticum\MobileApplication\Athleticum.ServiceAgents\obj\Debug\netstandard2.0\Athleticum.ServiceAgents.AssemblyInfoInputs.cache
+C:\Users\Delanoe\source\repos\Athleticum\MobileApplication\Athleticum.ServiceAgents\obj\Debug\netstandard2.0\Athleticum.ServiceAgents.AssemblyInfo.cs
+C:\Users\Delanoe\source\repos\Athleticum\MobileApplication\Athleticum.ServiceAgents\obj\Debug\netstandard2.0\Athleticum.ServiceAgents.dll
+C:\Users\Delanoe\source\repos\Athleticum\MobileApplication\Athleticum.ServiceAgents\obj\Debug\netstandard2.0\Athleticum.ServiceAgents.pdb
