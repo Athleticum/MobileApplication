@@ -1,4 +1,5 @@
 ﻿using Athleticum.DataTransferObjects;
+using Athleticum.ServiceAgents.Classes;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -8,14 +9,14 @@ namespace Athleticum.ServiceAgents.Interfaces
 {
     public interface IBaseServiceAgent
     {
-        Task<ObjectDTO> AddAsync(ObjectDTO objectToAdd);
+        Task<object> AddAsync(Request objectToAdd);
 
-        Task<ObjectDTO> UpdateAsync(ObjectDTO objectToAdd);
+        Task<object> UpdateAsync(Request objectToUpdate);
 
-        Task DeleteAsync(ObjectDTO objectToAdd);
+        Task DeleteAsync(Request objectToDelete);
 
-        Task<ObjectDTO> GetByIdAsync(ObjectDTO objectToAdd);
+        Task<object> GetByPropertiesAsync(Request objectToGet);
 
-        Task<IList<ObjectDTO>> GetAllAsync(ObjectDTO objectToAdd);
+        Task<object> GetAllAsync(Request objectsToGet);
     }
 }

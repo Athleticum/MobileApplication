@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Athleticum.Common.XamarinCommon.Helpers;
+using Athleticum.Views;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -13,7 +15,7 @@ namespace Athleticum
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            NavigationHelpers.SetRootPage(typeof(ApplicationMainPage));
         }
 
         protected override void OnStart()

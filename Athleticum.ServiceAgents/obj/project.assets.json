@@ -3108,11 +3108,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Delanoe\\source\\repos\\Athleticum\\MobileApplication\\Athleticum.ServiceAgents\\Athleticum.ServiceAgents.csproj",
+      "projectUniqueName": "C:\\Users\\Delanoe\\Source\\Repos\\Athleticum\\MobileApplication\\Athleticum.ServiceAgents\\Athleticum.ServiceAgents.csproj",
       "projectName": "Athleticum.ServiceAgents",
-      "projectPath": "C:\\Users\\Delanoe\\source\\repos\\Athleticum\\MobileApplication\\Athleticum.ServiceAgents\\Athleticum.ServiceAgents.csproj",
+      "projectPath": "C:\\Users\\Delanoe\\Source\\Repos\\Athleticum\\MobileApplication\\Athleticum.ServiceAgents\\Athleticum.ServiceAgents.csproj",
       "packagesPath": "C:\\Users\\Delanoe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Delanoe\\source\\repos\\Athleticum\\MobileApplication\\Athleticum.ServiceAgents\\obj\\",
+      "outputPath": "C:\\Users\\Delanoe\\Source\\Repos\\Athleticum\\MobileApplication\\Athleticum.ServiceAgents\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3133,8 +3133,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\Delanoe\\source\\repos\\Athleticum\\MobileApplication\\Athleticum.DataTransferObjects\\Athleticum.DataTransferObjects.csproj": {
-              "projectPath": "C:\\Users\\Delanoe\\source\\repos\\Athleticum\\MobileApplication\\Athleticum.DataTransferObjects\\Athleticum.DataTransferObjects.csproj"
+            "C:\\Users\\Delanoe\\Source\\Repos\\Athleticum\\MobileApplication\\Athleticum.DataTransferObjects\\Athleticum.DataTransferObjects.csproj": {
+              "projectPath": "C:\\Users\\Delanoe\\Source\\Repos\\Athleticum\\MobileApplication\\Athleticum.DataTransferObjects\\Athleticum.DataTransferObjects.csproj"
             }
           }
         }

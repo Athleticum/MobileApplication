@@ -3712,11 +3712,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Delanoe\\source\\repos\\Athleticum\\MobileApplication\\Athleticum.Common.Helpers\\Athleticum.Common.Helpers.csproj",
+      "projectUniqueName": "C:\\Users\\Delanoe\\Source\\Repos\\Athleticum\\MobileApplication\\Athleticum.Common.Helpers\\Athleticum.Common.Helpers.csproj",
       "projectName": "Athleticum.Common.Helpers",
-      "projectPath": "C:\\Users\\Delanoe\\source\\repos\\Athleticum\\MobileApplication\\Athleticum.Common.Helpers\\Athleticum.Common.Helpers.csproj",
+      "projectPath": "C:\\Users\\Delanoe\\Source\\Repos\\Athleticum\\MobileApplication\\Athleticum.Common.Helpers\\Athleticum.Common.Helpers.csproj",
       "packagesPath": "C:\\Users\\Delanoe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Delanoe\\source\\repos\\Athleticum\\MobileApplication\\Athleticum.Common.Helpers\\obj\\",
+      "outputPath": "C:\\Users\\Delanoe\\Source\\Repos\\Athleticum\\MobileApplication\\Athleticum.Common.Helpers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -186,11 +186,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Delanoe\\source\\repos\\Athleticum\\MobileApplication\\Athleticum.BusinessLogics\\Athleticum.BusinessLogics.csproj",
+      "projectUniqueName": "C:\\Users\\Delanoe\\Source\\Repos\\Athleticum\\MobileApplication\\Athleticum.BusinessLogics\\Athleticum.BusinessLogics.csproj",
       "projectName": "Athleticum.BusinessLogics",
-      "projectPath": "C:\\Users\\Delanoe\\source\\repos\\Athleticum\\MobileApplication\\Athleticum.BusinessLogics\\Athleticum.BusinessLogics.csproj",
+      "projectPath": "C:\\Users\\Delanoe\\Source\\Repos\\Athleticum\\MobileApplication\\Athleticum.BusinessLogics\\Athleticum.BusinessLogics.csproj",
       "packagesPath": "C:\\Users\\Delanoe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Delanoe\\source\\repos\\Athleticum\\MobileApplication\\Athleticum.BusinessLogics\\obj\\",
+      "outputPath": "C:\\Users\\Delanoe\\Source\\Repos\\Athleticum\\MobileApplication\\Athleticum.BusinessLogics\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

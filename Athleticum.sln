@@ -15,13 +15,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Business Objects", "3. B
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4. API Access", "4. API Access", "{6F7539B3-37DF-4D83-93B0-F1581F06E368}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Athleticum.DataTransferObjects", "Athleticum.DataTransferObjects\Athleticum.DataTransferObjects.csproj", "{4307E3B4-5841-43CA-828A-25FE05B4A37C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Athleticum.DataTransferObjects", "Athleticum.DataTransferObjects\Athleticum.DataTransferObjects.csproj", "{4307E3B4-5841-43CA-828A-25FE05B4A37C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.1 Features", "2.1 Features", "{866F391C-90DF-4E61-9945-56E660C276CE}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.2 Models", "2.2 Models", "{075CF78D-124E-4738-BDD8-6BC727BF74A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Athleticum.ServiceAgents", "Athleticum.ServiceAgents\Athleticum.ServiceAgents.csproj", "{FD501A21-0C28-4A87-A5AA-675155F7EB67}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Athleticum.ServiceAgents", "Athleticum.ServiceAgents\Athleticum.ServiceAgents.csproj", "{FD501A21-0C28-4A87-A5AA-675155F7EB67}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0. Github", "0. Github", "{34DAC7BB-0271-41EC-A27D-47000F550D79}"
 	ProjectSection(SolutionItems) = preProject
@@ -30,17 +30,17 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0. Github", "0. Github", "{
 		README.md = README.md
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Athleticum.Common.Operations", "Athleticum.Operations\Athleticum.Common.Operations.csproj", "{A7B2C5D4-C39D-4861-88A8-DD9D6AF3CA13}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Athleticum.Common.Operations", "Athleticum.Operations\Athleticum.Common.Operations.csproj", "{A7B2C5D4-C39D-4861-88A8-DD9D6AF3CA13}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Athleticum.Common.Helpers", "Athleticum.Common.Helpers\Athleticum.Common.Helpers.csproj", "{CC2D61C7-FFBE-4FBB-BC0F-320DF1392073}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Athleticum.Common.Helpers", "Athleticum.Common.Helpers\Athleticum.Common.Helpers.csproj", "{CC2D61C7-FFBE-4FBB-BC0F-320DF1392073}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Athleticum.BusinessLogics", "Athleticum.BusinessLogics\Athleticum.BusinessLogics.csproj", "{A411387C-7FA6-412E-BD8E-AC9AFA61B495}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Athleticum.BusinessLogics", "Athleticum.BusinessLogics\Athleticum.BusinessLogics.csproj", "{A411387C-7FA6-412E-BD8E-AC9AFA61B495}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Athleticum", "Athleticum\Athleticum\Athleticum.csproj", "{ECF91FAC-D016-4389-872A-5F923B901532}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Athleticum", "Athleticum\Athleticum\Athleticum.csproj", "{ECF91FAC-D016-4389-872A-5F923B901532}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Athleticum.ObjectModels", "Athleticum.ObjectModels\Athleticum.ObjectModels.csproj", "{4E7225B2-160C-4CCA-BED4-D7D33CD1C8F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Athleticum.ObjectModels", "Athleticum.ObjectModels\Athleticum.ObjectModels.csproj", "{4E7225B2-160C-4CCA-BED4-D7D33CD1C8F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Athleticum.Common.XamarinCommon", "Athleticum.Common.XamarinCommon\Athleticum.Common.XamarinCommon.csproj", "{DA7C8271-113A-41AB-9BBF-2313012F3AE0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Athleticum.Common.XamarinCommon", "Athleticum.Common.XamarinCommon\Athleticum.Common.XamarinCommon.csproj", "{DA7C8271-113A-41AB-9BBF-2313012F3AE0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

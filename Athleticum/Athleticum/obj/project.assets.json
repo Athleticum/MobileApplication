@@ -42,6 +42,33 @@
           "build/netstandard1.0/Xamarin.Forms.props": {},
           "build/netstandard1.0/Xamarin.Forms.targets": {}
         }
+      },
+      "Athleticum.Common.Helpers/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v1.4",
+        "dependencies": {
+          "NETStandard.Library": "1.6.1"
+        },
+        "compile": {
+          "bin/placeholder/Athleticum.Common.Helpers.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Athleticum.Common.Helpers.dll": {}
+        }
+      },
+      "Athleticum.Common.XamarinCommon/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Athleticum.Common.Helpers": "1.0.0",
+          "Xamarin.Forms": "2.5.0.91635"
+        },
+        "compile": {
+          "bin/placeholder/Athleticum.Common.XamarinCommon.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Athleticum.Common.XamarinCommon.dll": {}
+        }
       }
     }
   },
@@ -368,10 +395,21 @@
         "xamarin.forms.2.5.0.91635.nupkg.sha512",
         "xamarin.forms.nuspec"
       ]
+    },
+    "Athleticum.Common.Helpers/1.0.0": {
+      "type": "project",
+      "path": "../../Athleticum.Common.Helpers/Athleticum.Common.Helpers.csproj",
+      "msbuildProject": "../../Athleticum.Common.Helpers/Athleticum.Common.Helpers.csproj"
+    },
+    "Athleticum.Common.XamarinCommon/1.0.0": {
+      "type": "project",
+      "path": "../../Athleticum.Common.XamarinCommon/Athleticum.Common.XamarinCommon.csproj",
+      "msbuildProject": "../../Athleticum.Common.XamarinCommon/Athleticum.Common.XamarinCommon.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
+      "Athleticum.Common.XamarinCommon >= 1.0.0",
       "NETStandard.Library >= 2.0.0",
       "Xamarin.Forms >= 2.5.0.91635"
     ]
@@ -386,11 +424,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Delanoe\\source\\repos\\Athleticum\\MobileApplication\\Athleticum\\Athleticum\\Athleticum.csproj",
+      "projectUniqueName": "C:\\Users\\Delanoe\\Source\\Repos\\Athleticum\\MobileApplication\\Athleticum\\Athleticum\\Athleticum.csproj",
       "projectName": "Athleticum",
-      "projectPath": "C:\\Users\\Delanoe\\source\\repos\\Athleticum\\MobileApplication\\Athleticum\\Athleticum\\Athleticum.csproj",
+      "projectPath": "C:\\Users\\Delanoe\\Source\\Repos\\Athleticum\\MobileApplication\\Athleticum\\Athleticum\\Athleticum.csproj",
       "packagesPath": "C:\\Users\\Delanoe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Delanoe\\source\\repos\\Athleticum\\MobileApplication\\Athleticum\\Athleticum\\obj\\",
+      "outputPath": "C:\\Users\\Delanoe\\Source\\Repos\\Athleticum\\MobileApplication\\Athleticum\\Athleticum\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -410,7 +448,11 @@
       },
       "frameworks": {
         "netstandard2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Delanoe\\Source\\Repos\\Athleticum\\MobileApplication\\Athleticum.Common.XamarinCommon\\Athleticum.Common.XamarinCommon.csproj": {
+              "projectPath": "C:\\Users\\Delanoe\\Source\\Repos\\Athleticum\\MobileApplication\\Athleticum.Common.XamarinCommon\\Athleticum.Common.XamarinCommon.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

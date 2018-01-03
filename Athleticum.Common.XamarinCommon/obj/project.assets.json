@@ -405,11 +405,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Delanoe\\source\\repos\\Athleticum\\MobileApplication\\Athleticum.Common.XamarinCommon\\Athleticum.Common.XamarinCommon.csproj",
+      "projectUniqueName": "C:\\Users\\Delanoe\\Source\\Repos\\Athleticum\\MobileApplication\\Athleticum.Common.XamarinCommon\\Athleticum.Common.XamarinCommon.csproj",
       "projectName": "Athleticum.Common.XamarinCommon",
-      "projectPath": "C:\\Users\\Delanoe\\source\\repos\\Athleticum\\MobileApplication\\Athleticum.Common.XamarinCommon\\Athleticum.Common.XamarinCommon.csproj",
+      "projectPath": "C:\\Users\\Delanoe\\Source\\Repos\\Athleticum\\MobileApplication\\Athleticum.Common.XamarinCommon\\Athleticum.Common.XamarinCommon.csproj",
       "packagesPath": "C:\\Users\\Delanoe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Delanoe\\source\\repos\\Athleticum\\MobileApplication\\Athleticum.Common.XamarinCommon\\obj\\",
+      "outputPath": "C:\\Users\\Delanoe\\Source\\Repos\\Athleticum\\MobileApplication\\Athleticum.Common.XamarinCommon\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -430,8 +430,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\Delanoe\\source\\repos\\Athleticum\\MobileApplication\\Athleticum.Common.Helpers\\Athleticum.Common.Helpers.csproj": {
-              "projectPath": "C:\\Users\\Delanoe\\source\\repos\\Athleticum\\MobileApplication\\Athleticum.Common.Helpers\\Athleticum.Common.Helpers.csproj"
+            "C:\\Users\\Delanoe\\Source\\Repos\\Athleticum\\MobileApplication\\Athleticum.Common.Helpers\\Athleticum.Common.Helpers.csproj": {
+              "projectPath": "C:\\Users\\Delanoe\\Source\\Repos\\Athleticum\\MobileApplication\\Athleticum.Common.Helpers\\Athleticum.Common.Helpers.csproj"
             }
           }
         }

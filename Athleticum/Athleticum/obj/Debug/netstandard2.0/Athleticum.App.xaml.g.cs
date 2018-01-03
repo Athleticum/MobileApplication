@@ -11,8 +11,8 @@
 namespace Athleticum {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Delanoe\\source\\repos\\Athleticum\\MobileApplication\\Athleticum\\Athleticum\\" +
-        "Athleticum\\App.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Delanoe\\Source\\Repos\\Athleticum\\MobileApplication\\Athleticum\\Athleticum\\" +
+        "App.xaml")]
     public partial class App : global::Xamarin.Forms.Application {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

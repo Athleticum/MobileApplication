@@ -9,27 +9,11 @@ using Xamarin.Forms;
 
 namespace Athleticum.Common.XamarinCommon.Helpers
 {
-    public class NavigationHelpers : IBaseNavigationHelpers
+    public static class NavigationHelpers
     {
-        private static NavigationHelpers _instance;
+        private static NavigationPage _navigationPage;
 
-        private NavigationPage _navigationPage;
-
-        private NavigationHelpers() { }
-
-        public static NavigationHelpers Instance
-        {
-            get
-            {
-                if (_instance == null)
-                {
-                    _instance = new NavigationHelpers();
-                }
-                return _instance;
-            }
-        }
-
-        public async void NavigateToFeaturePage(string pageType, string assembly)
+        public static async void NavigateToFeaturePage(string pageType, string assembly)
         {
             if (_navigationPage != null)
             {
@@ -38,7 +22,7 @@ namespace Athleticum.Common.XamarinCommon.Helpers
             }
         }
 
-        public async void NavigateToPage(Type toPageType)
+        public static async void NavigateToPage(Type toPageType)
         {
             if (_navigationPage != null)
             {
@@ -47,7 +31,15 @@ namespace Athleticum.Common.XamarinCommon.Helpers
             }
         }
 
-        public async void NavigateToPrevious()
+        public static async void NavigateToHome()
+        {
+            if (_navigationPage != null)
+            {
+                await _navigationPage.Navigation.PopToRootAsync();
+            }
+        }
+
+        public static async void NavigateToPrevious()
         {
             if (_navigationPage != null)
             {
@@ -55,7 +47,7 @@ namespace Athleticum.Common.XamarinCommon.Helpers
             }
         }
 
-        public void SetRootPage(Type pageType)
+        public static void SetRootPage(Type pageType)
         {
             ContentPage page = (ContentPage)Activator.CreateInstance(pageType);
             _navigationPage = new NavigationPage(page);

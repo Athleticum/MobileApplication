@@ -8,4 +8,18 @@
     <PackageReference Include="Xamarin.Forms" Version="2.5.0.91635" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\Athleticum.Common.XamarinCommon\Athleticum.Common.XamarinCommon.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Views\ApplicationMainPage.xaml.cs">
+      <DependentUpon>ApplicationMainPage.xaml</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="ViewModels\" />
+  </ItemGroup>
+
 </Project>
